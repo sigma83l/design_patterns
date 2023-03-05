@@ -1,0 +1,15 @@
+G:\Design_patterns\singelton\obj\Debug\net6.0\singelton.csproj.AssemblyReference.cache
+G:\Design_patterns\singelton\obj\Debug\net6.0\singelton.GeneratedMSBuildEditorConfig.editorconfig
+G:\Design_patterns\singelton\obj\Debug\net6.0\singelton.AssemblyInfoInputs.cache
+G:\Design_patterns\singelton\obj\Debug\net6.0\singelton.AssemblyInfo.cs
+G:\Design_patterns\singelton\obj\Debug\net6.0\singelton.csproj.CoreCompileInputs.cache
+G:\Design_patterns\singelton\bin\Debug\net6.0\singelton.exe
+G:\Design_patterns\singelton\bin\Debug\net6.0\singelton.deps.json
+G:\Design_patterns\singelton\bin\Debug\net6.0\singelton.runtimeconfig.json
+G:\Design_patterns\singelton\bin\Debug\net6.0\singelton.dll
+G:\Design_patterns\singelton\bin\Debug\net6.0\singelton.pdb
+G:\Design_patterns\singelton\obj\Debug\net6.0\singelton.dll
+G:\Design_patterns\singelton\obj\Debug\net6.0\refint\singelton.dll
+G:\Design_patterns\singelton\obj\Debug\net6.0\singelton.pdb
+G:\Design_patterns\singelton\obj\Debug\net6.0\singelton.genruntimeconfig.cache
+G:\Design_patterns\singelton\obj\Debug\net6.0\ref\singelton.dll
